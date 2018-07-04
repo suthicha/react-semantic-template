@@ -1,4 +1,4 @@
-# React Sematic Template
+# React Semantic Template
 
 ### Installing
 ```
